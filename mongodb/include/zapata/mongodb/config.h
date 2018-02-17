@@ -90,13 +90,13 @@
 #define PACKAGE "zapata-mongodb"
 
 /* Define to the address where bug reports for this package should be sent. */
-#define PACKAGE_BUGREPORT "n@zgul <n@zgul.me>"
+#define PACKAGE_BUGREPORT "Matheus Henrique dos Santos <vorj.dux@gmail.com>"
 
 /* Define to the full name of this package. */
 #define PACKAGE_NAME "zapata-mongodb"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "zapata-mongodb 0.9.7-1artful55"
+#define PACKAGE_STRING "zapata-mongodb 2.0.0-1artful1"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "zapata-mongodb"
@@ -105,10 +105,10 @@
 #define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "0.9.7-1artful55"
+#define PACKAGE_VERSION "2.0.0-1artful1"
 
 /* Define to 1 if you have the ANSI C header files. */
 #define STDC_HEADERS 1
 
 /* Version number of package */
-#define VERSION "0.9.7-1artful55"
+#define VERSION "2.0.0-1artful1"
