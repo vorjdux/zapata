@@ -1,9 +1,9 @@
 Source: zapata-lisp
-Maintainer: n@zgul <n@zgul.me>
-Section: Development
+Maintainer: Matheus Henrique dos Santos <vorj.dux@gmail.com>
+Section: devel
 Priority: optional
 Standards-Version: 3.9.5
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 9), libmagic1, openssl, zapata-base (>=0.9), zapata-json (>=0.9), ecl
 
 Package: zapata-lisp
 Architecture: any
