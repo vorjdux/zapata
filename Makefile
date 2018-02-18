@@ -34,5 +34,6 @@ deb:
 
 ppa:
 	sudo rm -rf zapata-*.tar.gz zapata-*_source.changes zapata-*_source.ppa.upload zapata-*.dsc
+	./.repo bump minor
 	./.build ppa
 

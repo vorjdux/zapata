@@ -82,6 +82,7 @@ do
 	    fi
 	    ;;
 	ppa)
+		autoreconf -vfi && ./configure  --prefix=/usr --sysconf=/etc --libdir=/usr/lib --libexecdir=/usr/lib "CXXFLAGS=-O3 -Wall"
 	    sudo debuild -S -sd
 		dput ppa:vorjdux/ppa ../*_source.changes
 		rm -rf ../zapata-*.tar.gz ../zapata-*_source.changes ../zapata-*_source.ppa.upload ../zapata-*.dsc
