@@ -3,7 +3,7 @@ Maintainer: Matheus Henrique dos Santos <vorj.dux@gmail.com>
 Section: devel
 Priority: optional
 Standards-Version: 3.9.5
-Build-Depends: debhelper (>= 9), libmagic1, openssl, zapata-base (>=0.9), zapata-json (>=0.9), zapata-events (>=0.9)
+Build-Depends: debhelper (>= 9), libmagic1, openssl, zapata-base (>=0.9), zapata-json (>=0.9), zapata-events (>=0.9), zapata-http (>=0.9)
 
 Package: zapata-zmq
 Architecture: any
