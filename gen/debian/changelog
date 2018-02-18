@@ -1,3 +1,9 @@
+zapata-gen (2.0.0-1artful5) xenial; urgency=medium
+
+  * Version bump
+
+ -- n@zgul <n@zgul.me>  Sun, 18 Feb 2018 03:38:56 +0000
+
 zapata-gen (2.0.0-1artful4) xenial; urgency=medium
 
   * Version bump

@@ -1,3 +1,9 @@
+zapata-mongodb (2.0.0-1artful5) xenial; urgency=medium
+
+  * Version bump
+
+ -- Matheus Henrique dos Santos <vorj.dux@gmail.com>  Sun, 18 Feb 2018 03:38:56 +0000
+
 zapata-mongodb (2.0.0-1artful4) xenial; urgency=medium
 
   * Version bump
