@@ -1,6 +1,7 @@
 dnl Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.59)
+
 AC_INIT(zapata-base, 2.0.0-1artful8, Matheus Henrique dos Santos <vorj.dux@gmail.com>)
 
 AC_CONFIG_MACRO_DIR([m4])
