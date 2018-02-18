@@ -1,7 +1,7 @@
-/* include/zapata/postgresql/config.h.  Generated from config.h.in by configure.  */
-/* include/zapata/postgresql/config.h.in.  Generated from configure.ac by autoheader.  */
+/* include/zapata/events/config.h.  Generated from config.h.in by configure.  */
+/* include/zapata/events/config.h.in.  Generated from configure.ac by autoheader.  */
 
-#include <zapata/postgresql/unconfig.h>
+#include <zapata/events/unconfig.h>
 
 /* Define to 1 if you have the <dlfcn.h> header file. */
 #define HAVE_DLFCN_H 1
@@ -18,15 +18,6 @@
 /* Define to 1 if you have the `magic' library (-lmagic). */
 #define HAVE_LIBMAGIC 1
 
-/* Define to 1 if you have the `ossp-uuid++' library (-lossp-uuid++). */
-#define HAVE_LIBOSSP_UUID__ 1
-
-/* Define to 1 if you have the `pq' library (-lpq). */
-#define HAVE_LIBPQ 1
-
-/* Define to 1 if you have the `pqxx' library (-lpqxx). */
-#define HAVE_LIBPQXX 1
-
 /* Define to 1 if you have the `ssl' library (-lssl). */
 #define HAVE_LIBSSL 1
 
@@ -36,17 +27,8 @@
 /* Define to 1 if you have the `zapata-base' library (-lzapata-base). */
 #define HAVE_LIBZAPATA_BASE 1
 
-/* Define to 1 if you have the `zapata-events' library (-lzapata-events). */
-#define HAVE_LIBZAPATA_EVENTS 1
-
-/* Define to 1 if you have the `zapata-http' library (-lzapata-http). */
-#define HAVE_LIBZAPATA_HTTP 1
-
 /* Define to 1 if you have the `zapata-json' library (-lzapata-json). */
 #define HAVE_LIBZAPATA_JSON 1
-
-/* Define to 1 if you have the `zapata-zmq' library (-lzapata-zmq). */
-#define HAVE_LIBZAPATA_ZMQ 1
 
 /* Define to 1 if you have the <memory.h> header file. */
 #define HAVE_MEMORY_H 1
@@ -76,19 +58,19 @@
 #define LT_OBJDIR ".libs/"
 
 /* Name of package */
-#define PACKAGE "zapata-postgresql"
+#define PACKAGE "zapata-events"
 
 /* Define to the address where bug reports for this package should be sent. */
 #define PACKAGE_BUGREPORT "Matheus Henrique dos Santos <vorj.dux@gmail.com>"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "zapata-postgresql"
+#define PACKAGE_NAME "zapata-events"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "zapata-postgresql 2.0.0-1artful4"
+#define PACKAGE_STRING "zapata-events 2.0.0-1artful4"
 
 /* Define to the one symbol short name of this package. */
-#define PACKAGE_TARNAME "zapata-postgresql"
+#define PACKAGE_TARNAME "zapata-events"
 
 /* Define to the home page for this package. */
 #define PACKAGE_URL ""

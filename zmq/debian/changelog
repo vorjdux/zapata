@@ -1,3 +1,9 @@
+zapata-zmq (2.0.0-1artful4) xenial; urgency=medium
+
+  * Version bump
+
+ -- Matheus Henrique dos Santos <vorj.dux@gmail.com>  Sun, 18 Feb 2018 00:38:27 +0000
+
 zapata-zmq (2.0.0-1artful3) xenial; urgency=medium
 
   * Version bump
