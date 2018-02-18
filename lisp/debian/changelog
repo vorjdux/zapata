@@ -1,3 +1,9 @@
+zapata-lisp (2.0.0-1artful3) xenial; urgency=medium
+
+  * Version bump
+
+ -- Matheus Henrique dos Santos <vorj.dux@gmail.com>  Sun, 18 Feb 2018 00:27:16 +0000
+
 zapata-lisp (2.0.0-1artful2) xenial; urgency=medium
 
   * Version bump
