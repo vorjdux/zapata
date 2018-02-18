@@ -32,3 +32,7 @@ deb:
 	sudo rm -rfv upstream/*
 	./.build package
 
+ppa:
+	sudo rm -rf zapata-*.tar.gz zapata-*_source.changes zapata-*_source.ppa.upload zapata-*.dsc
+	./.build ppa
+

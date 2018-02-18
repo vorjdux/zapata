@@ -81,6 +81,15 @@ do
 		exit -1
 	    fi
 	    ;;
+	ppa)
+	    sudo debuild -S -sd
+		dput ppa:vorjdux/ppa ../*_source.changes
+		rm -rf ../zapata-*.tar.gz ../zapata-*_source.changes ../zapata-*_source.ppa.upload ../zapata-*.dsc
+	    if [[ $? != 0 ]]
+	    then
+		exit -1
+	    fi
+	    ;;
     esac
     popd
 done

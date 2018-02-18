@@ -1,3 +1,9 @@
+zapata-base (2.0.0-1artful6) xenial; urgency=medium
+
+  * Version bump
+
+ -- Matheus Henrique dos Santos <vorj.dux@gmail.com>  Sun, 18 Feb 2018 03:41:52 +0000
+
 zapata-base (2.0.0-1artful5) xenial; urgency=medium
 
   * Version bump
