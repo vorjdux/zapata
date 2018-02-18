@@ -1,3 +1,15 @@
+zapata-mqtt (2.0.0-1artful10) xenial; urgency=medium
+
+  * Version bump
+
+ -- Matheus Henrique dos Santos <vorj.dux@gmail.com>  Sun, 18 Feb 2018 15:59:14 +0000
+
+zapata-mqtt (2.0.0-1artful9) xenial; urgency=medium
+
+  * Version bump
+
+ -- Matheus Henrique dos Santos <vorj.dux@gmail.com>  Sun, 18 Feb 2018 15:58:49 +0000
+
 zapata-mqtt (2.0.0-1artful8) xenial; urgency=medium
 
   * Version bump
