@@ -12,4 +12,4 @@ nobase_dist_sysconf_DATA = \
 
 install-exec-hook:
 	if [ -f $(sysconfdir)/init.d/zapata ]; then chmod +x $(sysconfdir)/init.d/zapata; fi
-	mkdir -p /var/log/zapata/
+	( mkdir -p /var/log/zapata/ || true )
